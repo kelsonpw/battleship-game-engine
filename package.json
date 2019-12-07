@@ -1,0 +1,10 @@
+{
+  "name": "battleship-game-engine",
+  "version": "1.0.2",
+  "main": "index.js",
+  "author": "Kelson Warner",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
